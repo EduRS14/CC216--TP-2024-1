@@ -1,3 +1,7 @@
+﻿**Universidad Peruana de Ciencias Aplicadas**
+
+![Upc Logo](logoUPC.png)
+
 **Trabajo Parcial**
 
 **Fundamentos de Data Science - CC216**
