@@ -1,6 +1,6 @@
 ﻿**Universidad Peruana de Ciencias Aplicadas**
 
-![Upc Logo](logoUPC.png)
+![Upc Logo](https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png)
 
 **Trabajo Parcial**
 
