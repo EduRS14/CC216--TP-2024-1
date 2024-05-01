@@ -34,6 +34,10 @@
 
 * El dataset "hotel_booking.csv" es una recopilación de datos sobre las reservas realizadas en dos tipos de hoteles (Resort Hotel y City Hotel). Esta data es muy variada, donde se incluyen aspectos como tiempo de llegada del usuario, servicios con los que cuenta la reserva, estado de esta misma, etc. Tiene datos almacenados desde el año 2015 hasta el 2017, con 119390 registros en su totalidad, con información de 32 diferentes atributos tomados en cuenta del caso.
 
+* En general, las diferentes características de cada atributo las hemos interpretado en el siguiente cuadro:
+
+
+
 **3. Conclusiones**
 
 **4. Licencia**
