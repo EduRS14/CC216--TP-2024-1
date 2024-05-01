@@ -18,7 +18,7 @@
 - Joe Maicol Turpo Queque		U202124254
 - Guido Yair Abel Jeri Saldaña		U202219322
 
-1. Introducción del proyecto
+**1. Introducción del proyecto**
 
 **Descripción y alcance del problema**
 * En la industria de hotelería, es necesario recolectar y analizar datos de todo tipo. Desde información de los clientes, registro de servicios de terceros, la logística del transporte de comida, utensilios, etc.
@@ -30,13 +30,13 @@
 * Entender cómo ha ido evolucionando el caso de cada uno de los hoteles e identificar tendencias que se han ido dando a lo largo de los diferentes registros, empleando sólamente para el análisis data relevante o que no interfiera de forma inoportuna la obtención de información.
 * Manejar una gran cantidad de datos, y a partir de estos resolver dudas en cuanto a necesidades del caso de estudio en cuestión, además de generar nueva información y conceptos de investigación a partir de los resultados.
 
-2. Descripción del dataset
+**2. Descripción del dataset**
 
 * El dataset "hotel_booking.csv" es una recopilación de datos sobre las reservas realizadas en dos tipos de hoteles (Resort Hotel y City Hotel). Esta data es muy variada, donde se incluyen aspectos como tiempo de llegada del usuario, servicios con los que cuenta la reserva, estado de esta misma, etc. Tiene datos almacenados desde el año 2015 hasta el 2017, con 119390 registros en su totalidad, con información de 32 diferentes atributos tomados en cuenta del caso.
 
-3. Conclusiones
+**3. Conclusiones**
 
-4. Licencia
+**4. Licencia**
 
 MIT License
 
