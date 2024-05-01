@@ -8,7 +8,7 @@
 
 **Grupo: 4**
 
-** Integrantes **
+**Integrantes**
 - Eduardo José Rivas Siesquén		U202216407
 - Rodrigo Alonso Ramírez Cesti	U202210690
 - Joe Maicol Turpo Queque		U202124254
