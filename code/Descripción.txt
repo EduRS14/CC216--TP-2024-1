@@ -1,1 +1,1 @@
-En la presente carpeta, se encuentra el archivo (.r) que contiene los diferentes scripts utilizados en R Studio para los procesos a los que se sometió el dataset original.
+En la presente carpeta, se encuentran archivos de texto que contienen los diferentes scripts utilizados en R Studio para los procesos a los que se sometió el dataset original.
