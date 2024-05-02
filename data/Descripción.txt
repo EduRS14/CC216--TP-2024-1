@@ -1,0 +1,1 @@
+En la presente carpeta, se encuentra el dataset original del caso (hotel_bookings.csv), y también el del dataset luego del tratado y limpieza de datos, listo para el análisis (DataHotelBookingsLimpia.csv).
